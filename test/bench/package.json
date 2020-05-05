@@ -28,6 +28,6 @@
     "flow-parser": "*",
     "traceur": "*",
     "typescript": "*",
-    "yargs": "^8.0.1"
+    "yargs": "15.3.1"
   }
 }
